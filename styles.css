@@ -118,7 +118,7 @@ main {
 .cards-grid,
 .gallery-grid {
     display: grid;
-    grid-template-columns: repeat(4, 1fr); 
+    grid-template-columns: repeat(4, 1fr); /* Arrange 4 cards each line */
     gap: 30px;
 }
 
