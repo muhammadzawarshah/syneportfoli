@@ -94,6 +94,7 @@ main {
 .home-section p {
     font-size: 1.2em;
     margin-bottom: 30px;
+     text-shadow: 3px 4px 0px rgba(0, 0, 0, 0.5);
 }
 
 .home-section img {
